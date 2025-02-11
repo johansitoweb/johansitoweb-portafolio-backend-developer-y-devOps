@@ -1,0 +1,46 @@
+{
+  "name": "astro-bento-portfolio",
+  "type": "module",
+  "version": "0.0.2",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/netlify": "^6.0.1",
+    "@astrojs/rss": "^4.0.10",
+    "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/solid-js": "^5.0.1",
+    "@astrojs/svelte": "^7.0.2",
+    "@iconify-json/ri": "^1.2.1",
+    "@rive-app/canvas": "^2.21.6",
+    "astro": "^5.1.1",
+    "astro-icon": "^1.1.1",
+    "astro-robots-txt": "^1.0.0",
+    "autoprefixer": "^10.4.20",
+    "d3": "^7.9.0",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.14",
+    "mdast-util-to-string": "^4.0.0",
+    "motion": "^10.18.0",
+    "reading-time": "^1.5.0",
+    "solid-js": "^1.9.2",
+    "svelte": "^5.15.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.3",
+    "@unocss/astro": "^0.63.4",
+    "@unocss/postcss": "^0.63.4",
+    "@unocss/preset-uno": "^0.63.4",
+    "@unocss/reset": "^0.63.4",
+    "autoprefixer": "^10.4.20",
+    "markdown-it": "^14.1.0",
+    "motion": "^10.18.0",
+    "sanitize-html": "^2.13.1",
+    "typescript": "^5.7.2",
+    "unocss": "^0.63.4"
+  }
+}
